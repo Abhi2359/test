@@ -1,0 +1,6 @@
+
+{{#user}}
+Name: Abhishek Kumar
+Skills: HTML, CSS, JS, React Js,Next.js
+Email: test@gmail.com
+{{/user}}
